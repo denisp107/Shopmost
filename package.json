@@ -69,7 +69,7 @@
     "debug": "^4.3.2",
     "dependency-tree": "^8.1.2",
     "enquirer": "^2.3.6",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "express-session": "^1.17.3",
     "flatpickr": "^4.6.9",
     "grapesjs": "^0.21.7",
